@@ -14,8 +14,8 @@ Welcome! This repository showcases end-to-end business analytics projects focuse
 
 ## Projects
 
-| Project | Techniques | Status |
-|---------|------------|--------|
+| Project | Techniques 
+|---------|------------
 | IPO Listing Gain Prediction | Multiple Regression
 | Working Capital Efficiency | Panel Econometrics 
 | Telecom Customer Churn | Survival Analysis
