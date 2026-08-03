@@ -16,13 +16,13 @@ Welcome! This repository showcases end-to-end business analytics projects focuse
 
 | Project | Techniques | Status |
 |---------|------------|--------|
-| IPO Listing Gain Prediction | Multiple Regression | ✅ |
-| Working Capital Efficiency | Panel Econometrics | ✅ |
-| Telecom Customer Churn | Survival Analysis | ✅ |
-| Credit Risk Assessment | Logistic Regression | ✅ |
-| CRM Funnel Analytics | Funnel Analysis, KPI Reporting | 🚧 |
-| Return-to-Origin (RTO) Analysis | Business Analytics | 🚧 |
-| Power BI Dashboards | Dashboard Development | 🚧 |
+| IPO Listing Gain Prediction | Multiple Regression
+| Working Capital Efficiency | Panel Econometrics 
+| Telecom Customer Churn | Survival Analysis
+| Credit Risk Assessment | Logistic Regression
+| CRM Funnel Analytics | Funnel Analysis, KPI Reporting
+| Return-to-Origin (RTO) Analysis | Business Analytics
+| Power BI Dashboards | Dashboard Development
 
 ## About
 
